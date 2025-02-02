@@ -6,7 +6,7 @@
 	"app_type" : "fintech",
 	"category" : "tools",
 	"version" : "0.0.0",
-	"repo" : "https://github.com/sp-framework/core/fintech-components-tools-home",
+	"repo" : "https://github.com/sp-fintech/fintech-components-tools-home",
 	"class" : "Apps\\Fintech\\Components\\Home\\HomeComponent",
 	"dependencies" : 
 	{
