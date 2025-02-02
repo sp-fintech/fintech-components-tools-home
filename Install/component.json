@@ -1,0 +1,40 @@
+{
+	"name" : "Home",
+	"route" : "home",
+	"description" : "<p>Fintech home</p>",
+	"module_type" : "components",
+	"app_type" : "fintech",
+	"category" : "tools",
+	"version" : "0.0.0",
+	"repo" : "https://github.com/sp-framework/core/fintech-components-tools-home",
+	"class" : "Apps\\Fintech\\Components\\Home\\HomeComponent",
+	"dependencies" : 
+	{
+		"core" : 
+		{
+			"name" : "Core",
+			"version" : "0.0.0-rc.7",
+			"repo" : "https://github.com/sp-framework/core"
+		},
+		"components" : [],
+		"packages" : [],
+		"middlewares" : [],
+		"views" : [],
+		"external" : []
+	},
+	"menu" : 
+	{
+		"seq" : 0,
+		"home" : 
+		{
+			"title" : "home",
+			"icon" : "home",
+			"link" : "home"
+		}
+	},
+	"settings" : 
+	{
+		"mandatory" : true
+	},
+	"widgets" : []
+}
