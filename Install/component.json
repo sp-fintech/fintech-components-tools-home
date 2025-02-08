@@ -22,14 +22,12 @@
 		"views" : [],
 		"external" : []
 	},
-	"menu" : 
-	{
-		"seq" : 0,
-		"home" : 
-		{
-			"title" : "home",
-			"icon" : "home",
-			"link" : "home"
+	"menu"             : {
+		"seq"           : 0,
+		"home"          : {
+			"title"     : "home",
+			"icon"      : "home",
+			"link"      : "home"
 		}
 	},
 	"settings" : 
