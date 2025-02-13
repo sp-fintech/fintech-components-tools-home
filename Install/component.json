@@ -5,7 +5,7 @@
 	"module_type" : "components",
 	"app_type" : "fintech",
 	"category" : "tools",
-	"version" : "0.3.0",
+	"version" : "0.4.0",
 	"repo" : "https://github.com/sp-fintech/fintech-components-tools-home",
 	"class" : "Apps\\Fintech\\Components\\Home\\HomeComponent",
 	"dependencies" : 
@@ -24,13 +24,13 @@
 	},
 	"menu" : 
 	{
-		"seq" : 0,
 		"home" : 
 		{
 			"title" : "home",
 			"icon" : "home",
 			"link" : "home"
-		}
+		},
+		"seq" : "0"
 	},
 	"settings" : 
 	{
