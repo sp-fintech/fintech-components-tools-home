@@ -19,8 +19,21 @@
 		"components" : [],
 		"packages" : [],
 		"middlewares" : [],
-		"views" : [],
-		"external" : []
+		"views" : 
+		[
+			{
+				"name" : "Home",
+				"version" : "0.0.0",
+				"repo" : "https://github.com/sp-fintech/fintech-views-tools-default-home"
+			}
+		],
+		"external" : [],
+		"apptype" : 
+		{
+			"name" : "Fintech",
+			"version" : "0.3.0",
+			"repo" : "https://github.com/sp-fintech/fintech"
+		}
 	},
 	"menu" : 
 	{
